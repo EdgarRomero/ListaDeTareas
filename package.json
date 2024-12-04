@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@react-native-community/checkbox": "^0.5.17",
+    "expo": "^52.0.14"
+  },
+  "name": "listadetareas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
